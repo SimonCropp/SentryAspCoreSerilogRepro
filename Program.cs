@@ -21,7 +21,7 @@ public class Program
                         s.MinimumEventLevel = LogEventLevel.Error;
                     }))
 
-            .UseSentry()
+            .UseSentry(_=>_.Dsn ="https://e8d57cabda394366b25b57bba7c204a6@o1027677.ingest.sentry.io/5994502")
 
             .Configure(a =>
             {
