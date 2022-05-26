@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31903.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repro", "Repro.csproj", "{0202A233-0D4A-4474-BAFB-9315F4C13030}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0202A233-0D4A-4474-BAFB-9315F4C13030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0202A233-0D4A-4474-BAFB-9315F4C13030}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0202A233-0D4A-4474-BAFB-9315F4C13030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0202A233-0D4A-4474-BAFB-9315F4C13030}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C652B1A-DF72-4EE5-A98B-194FE2C054F6}
+	EndGlobalSection
+EndGlobal
